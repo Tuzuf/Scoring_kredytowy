@@ -1,0 +1,31 @@
+<version>10.0</version>
+<?xml version="1.0" encoding="UTF-8" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>Education</Variable Name>
+<Destination Variable Name>Education_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>2</Number of Categories>
+<UniqueCategories>2</UniqueCategories>
+
+<Category>
+	<Category Name>Graduate</Category Name>
+	<WOE Value>8,54378125421993</WOE Value>
+	<IV>0,0057698263</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Graduate</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Not Graduate</Category Name>
+	<WOE Value>-32,5833838416157</WOE Value>
+	<IV>0,0220043631</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Not Graduate</Exact Value>
+</Category>
+
+</Categorization Script>

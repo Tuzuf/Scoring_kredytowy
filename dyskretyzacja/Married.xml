@@ -1,0 +1,31 @@
+<version>10.0</version>
+<?xml version="1.0" encoding="UTF-8" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>Married</Variable Name>
+<Destination Variable Name>Married_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>2</Number of Categories>
+<UniqueCategories>2</UniqueCategories>
+
+<Category>
+	<Category Name>Yes</Category Name>
+	<WOE Value>20,3819278487807</WOE Value>
+	<IV>0,0250141842</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Yes</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>No</Category Name>
+	<WOE Value>-31,2611455494306</WOE Value>
+	<IV>0,0383659514</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>No</Exact Value>
+</Category>
+
+</Categorization Script>

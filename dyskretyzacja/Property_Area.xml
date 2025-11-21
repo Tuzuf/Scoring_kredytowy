@@ -1,0 +1,40 @@
+<version>10.0</version>
+<?xml version="1.0" encoding="UTF-8" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>Property_Area</Variable Name>
+<Destination Variable Name>Property_Area_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>Rural</Category Name>
+	<WOE Value>-41,6217899884426</WOE Value>
+	<IV>0,0516218304</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Rural</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Urban</Category Name>
+	<WOE Value>-18,768349993534</WOE Value>
+	<IV>0,0116997506</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Urban</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Semiurban</Category Name>
+	<WOE Value>52,2716370287513</WOE Value>
+	<IV>0,0974153236</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Semiurban</Exact Value>
+</Category>
+
+</Categorization Script>

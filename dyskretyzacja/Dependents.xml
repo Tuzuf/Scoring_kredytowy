@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>Dependents</Variable Name>
+<Destination Variable Name>Dependents_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>2</Number of Categories>
+<UniqueCategories>2</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,1></Category Name>
+	<WOE Value>-6,60805414893864</WOE Value>
+	<IV>0,0035614837</IV>
+	<From></From>
+	<To>1</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(1,2></Category Name>
+	<WOE Value>29,4887456173051</WOE Value>
+	<IV>0,015893285</IV>
+	<From>1</From>
+	<To>2</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

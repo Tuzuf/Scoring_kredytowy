@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>ApplicantIncome</Variable Name>
+<Destination Variable Name>ApplicantIncome_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>6</Number of Categories>
+<UniqueCategories>6</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,3365></Category Name>
+	<WOE Value>5,88405000229334</WOE Value>
+	<IV>0,0013754922</IV>
+	<From></From>
+	<To>3365</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(3365,3800></Category Name>
+	<WOE Value>-28,9466194245282</WOE Value>
+	<IV>0,0088343579</IV>
+	<From>3365</From>
+	<To>3800</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(3800,4301></Category Name>
+	<WOE Value>46,4305608131098</WOE Value>
+	<IV>0,0195973146</IV>
+	<From>3800</From>
+	<To>4301</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(4301,5166></Category Name>
+	<WOE Value>-38,2992252256106</WOE Value>
+	<IV>0,0156678649</IV>
+	<From>4301</From>
+	<To>5166</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(5166,9560></Category Name>
+	<WOE Value>16,7054084663166</WOE Value>
+	<IV>0,0054238339</IV>
+	<From>5166</From>
+	<To>9560</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(9560,inf)</Category Name>
+	<WOE Value>-26,5209216599722</WOE Value>
+	<IV>0,0070607649</IV>
+	<From>9560</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

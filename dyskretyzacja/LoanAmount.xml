@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>LoanAmount</Variable Name>
+<Destination Variable Name>LoanAmount_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>5</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,107></Category Name>
+	<WOE Value>-12,8462387121225</WOE Value>
+	<IV>0,0050884452</IV>
+	<From></From>
+	<To>107</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(107,128></Category Name>
+	<WOE Value>18,7552606211507</WOE Value>
+	<IV>0,007185457</IV>
+	<From>107</From>
+	<To>128</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(128,156></Category Name>
+	<WOE Value>39,0197635977376</WOE Value>
+	<IV>0,0266043843</IV>
+	<From>128</From>
+	<To>156</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(156,181></Category Name>
+	<WOE Value>-38,2992252256106</WOE Value>
+	<IV>0,0156678649</IV>
+	<From>156</From>
+	<To>181</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(181,inf)</Category Name>
+	<WOE Value>-12,9211731480006</WOE Value>
+	<IV>0,0033561489</IV>
+	<From>181</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

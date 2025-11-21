@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>CoapplicantIncome</Variable Name>
+<Destination Variable Name>CoapplicantIncome_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0></Category Name>
+	<WOE Value>-22,8841572428847</WOE Value>
+	<IV>0,0240729446</IV>
+	<From></From>
+	<To>0</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,1229></Category Name>
+	<WOE Value>129,098418131557</WOE Value>
+	<IV>0,0729322232</IV>
+	<From>0</From>
+	<To>1229</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(1229,inf)</Category Name>
+	<WOE Value>9,97504027670594</WOE Value>
+	<IV>0,0048579742</IV>
+	<From>1229</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>
