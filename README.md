@@ -1,1 +1,5 @@
-To be added
+# Scoring_kredytowy
+## Cel projektu
+## Technologie
+## Funkcje
+## Wynki
